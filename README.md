@@ -1320,8 +1320,18 @@ La organización de los archivos permite documentar el desarrollo matemático, l
 
 ```text
 .
-├── README.md                             # Reporte y documentación
-├── CITATION.cff                          # Datos de citación (por incorporar)
+├── Analisis_Practica3.pdf           # Documento de análisis de la práctica 3
+├── CITATION.cff                     # Archivo de citación
+├── Figure_1_P3.png                  # Figura generada en los resultados
+├── LICENSE                          # Licencia del repositorio (BSD-2-Clause)
+├── Montano23212215_P3.mlx           # Live Script de MATLAB
+├── Montano23212215_P3.pdf           # Reporte en PDF
+├── Montano23212215_Practica3.py     # Script de Python
+├── README.md                        # Documentación principal del repositorio
+├── Sistema Musculoesqueletico.png   # Diagrama o figura del sistema musculoesquelético
+├── practica_3.slx                   # Modelo de Simulink
+├── sistemaME.eps                    # Imagen vectorial del sistema
+└── sistemaME.png                    # Imagen del sistema musculoesquelético
 ```
 
 **Criterio de nombres:** los archivos conservan las denominaciones utilizadas durante el desarrollo de la práctica. Las figuras correspondientes a MATLAB y Python presentan las respuestas de la entrada, el individuo sano, el caso simulado de atrofia muscular y el sistema controlado. Los archivos complementarios permiten conservar el análisis matemático, la representación fisiológica y los parámetros utilizados durante la sintonización. El archivo `CITATION.cff` deberá incorporarse si todavía no se encuentra disponible en el repositorio.
